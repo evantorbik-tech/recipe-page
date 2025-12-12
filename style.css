@@ -4,7 +4,17 @@ font-family: ;
 font-size: 15px;
 background-color: hsl(30, 54%, 90%);
 }
+h3{
+    color: hsl(332, 51%, 32%);
+}
+
+h2{
+color: hsl(14, 45%, 36%);
+}
 
 .backround{
     background-color: white;
+}
+.Ingredients{
+background-color: hsl(330, 100%, 98%);
 }
