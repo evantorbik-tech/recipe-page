@@ -1,5 +1,4 @@
 body{
-
 font-family: ;
 font-size: 15px;
 background-color: hsl(30, 54%, 90%);
@@ -15,6 +14,11 @@ color: hsl(14, 45%, 36%);
 .backround{
     background-color: white;
 }
+
 .Ingredients{
 background-color: hsl(330, 100%, 98%);
+}
+
+.cal{
+    color: hsl(14, 45%, 36%);
 }
