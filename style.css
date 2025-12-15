@@ -1,8 +1,14 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('turetype');
+}
+
 body{
-font-family: ;
+font-family: Outfit, serif;
 font-size: 15px;
 background-color: hsl(30, 54%, 90%);
 }
+
 h3{
     color: hsl(332, 51%, 32%);
 }
