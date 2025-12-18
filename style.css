@@ -11,22 +11,38 @@ background-color: hsl(30, 54%, 90%);
 
 .backround{
     background-color: white;
+    margin: 50px;
     border-radius: 15px;
+}
+.Ingredients{
+background-color: hsl(330, 100%, 98%);
+margin: 30px;
+padding: 15px;
+border-radius: 15px;
+}
+h1{
+    padding-left: 50px;
+}
+
+h2{
+    padding-left: 50px;
+color: hsl(14, 45%, 36%);
 }
 
 h3{
     color: hsl(332, 51%, 32%);
 }
 
-h2{
-color: hsl(14, 45%, 36%);
+.list{
+    padding-left: 30px;
 }
 
-.Ingredients{
-background-color: hsl(330, 100%, 98%);
-margin: 30px;
-padding: 15px;
-border-radius: 15px;
+ol{
+    padding-left: 70px;
+}
+
+p{
+    padding-left: 50px;
 }
 
 .cal{
@@ -38,5 +54,18 @@ border-radius: 15px;
     border-radius: 50px;
     margin: 15px;
     padding: 30px;
-    width: 670px;
+    width: 600px;
 }
+
+ table {
+            width: 800px;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        td:nth-child(2) {
+            font-weight: bold;
+            color: #6f3b1e;
+        }
