@@ -3,6 +3,11 @@
     src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'young-serif';
+    src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+}
+
 body{
 font-family: Outfit, serif;
 font-size: 15px;
@@ -21,10 +26,12 @@ padding: 15px;
 border-radius: 15px;
 }
 h1{
+    font-family: young-serif;
     padding-left: 50px;
 }
 
 h2{
+    font-family: young-serif;
     padding-left: 50px;
 color: hsl(14, 45%, 36%);
 }
