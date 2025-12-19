@@ -18,6 +18,7 @@ background-color: hsl(30, 54%, 90%);
     background-color: white;
     margin: 50px;
     border-radius: 15px;
+    width: 600px;
 }
 .Ingredients{
 background-color: hsl(330, 100%, 98%);
@@ -59,9 +60,10 @@ p{
 .center{
     display: block;
     border-radius: 50px;
-    margin: 15px;
+    margin: 15px auto;
     padding: 30px;
-    width: 600px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
  table {
